@@ -1,0 +1,3 @@
+CarModel :Mitsubishi_Xpander
+Price Per day :2023.0
+paymentAmount :9069.0
